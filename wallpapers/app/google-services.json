@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1021606717518",
+    "project_id": "wallpapers-cd230",
+    "storage_bucket": "wallpapers-cd230.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021606717518:android:b00a61071e239b08dc3b1f",
+        "android_client_info": {
+          "package_name": "com.android.wallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021606717518-8fd0arrbpu8ahk1mrqqlf2bo0hbhgeen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHY4xLl62sWU5bvqcStFdHREg_8ARKOlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021606717518-8fd0arrbpu8ahk1mrqqlf2bo0hbhgeen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
